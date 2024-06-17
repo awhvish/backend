@@ -1,0 +1,1 @@
+First fullstack application with functionalities
